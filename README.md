@@ -1,2 +1,3 @@
 # sepm-repo2
-creating my first repo on git and this is a lie.
+- Creating my first repo on git.
+- This is a change made on a Readme.md file
